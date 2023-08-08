@@ -1,4 +1,4 @@
-# Assignment3_ICT2204_ICT1920077
+# Assignment3_ICT2204_ICT1920077 Portfolio Website
 Web Technology Assignment 3 ICT/19/20/077
 
 This is a website of a portfolio. The light blue with white color is used as theme colors. In the portfolio, there are some sections. They are home, about, Services, portfolio, projects and contact.
