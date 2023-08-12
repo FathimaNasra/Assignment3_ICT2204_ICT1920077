@@ -1,0 +1,17 @@
+Assignment 4  -ICT/19/20/077
+
+
+The portfolio website is connected to portfolio.sql database. The user can register/login to the website.
+when registering, the password and confirm password are checked whether they are same or not. Also when mistakenly entering false data, the false data can be cleared instead of reopen the sign up or log in form.
+Also the forms check whether any empty cells are left. 
+The updated present details of the project are displayed in the website.Adding projects, Deleting Projects and Updating project data is done from admin log in. (Where log in Email="567" and Password="2"
+The viewers can send message to the author from the contact section. and all viewers' message can be seen from the database.
+Alers are there for user guide whenever it is useful. when successfully registering, when entering false email or password etc.
+Also there are alerts to notify the admin, when adding projects, deleting project and updating project data.
+Also the logouta.php helps to logout from admin email and it directs to main page.
+Through the admin php(rateman.php) the user can view current projects and do CRUD operations for the projects.
+The g2.js and gallery.js files are for blurring background of the log in and sign up form, animation for the skills bar, sticky navbar etc.
+contact.php file is for storing the user sent message to the database.
+
+
+
